@@ -1565,7 +1565,8 @@ body.frontpage .section__hero-content {
 }
 
 .button--small:hover, .button:hover {
-    opacity: .7
+    opacity: .7;
+    cursor: pointer;
 }
 
 .button--small {
